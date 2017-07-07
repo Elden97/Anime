@@ -14,3 +14,6 @@
  *= require_self
  */
 
+.test{
+    color: blue;
+}
